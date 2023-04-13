@@ -26,7 +26,7 @@ Scatter plot of Latitude vs. Wind Speed
 
 - Please use your own API key for weather in weather_api_key
 - Please use your own API key Geopify in geoapify_key
-- Please add the above two keys in the config.py file which is not included in this package
+- Please add the above two keys in the api_keys.py file which is not included in this package per instructions
 - Activate PythonData using conda activate PythonData
 - Download the files WeatherPy.ipynb and VacationPy.ipynb
 - Open Jupyter Notebook using command jupyter notebook
@@ -35,5 +35,5 @@ Scatter plot of Latitude vs. Wind Speed
 - The Analysis is part of the WeatherPy file using markdown
 - Open the file VacationPy.ipynb from the notebook
 - Execute from top to bottom   
-- The screenshots can be found in the output_data directory
+- The screenshots and the .csv can be found in the output_data directory
 <hr>
