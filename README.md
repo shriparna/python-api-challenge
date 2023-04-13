@@ -24,7 +24,7 @@ Scatter plot of Latitude vs. Wind Speed
 
 ## Instructions:
 
-- Please use your own API key for weather in weather_api_key
+- Please use your own API key for OpenWeatherMap in weather_api_key
 - Please use your own API key Geopify in geoapify_key
 - Please add the above two keys in the api_keys.py file which is not included in this package per instructions
 - Activate PythonData using conda activate PythonData
