@@ -11,7 +11,7 @@ Package Contents:
 
 1. [WeatherPy.ipynb](https://github.com/shriparna/python-api-challenge/blob/main/starter_code/WeatherPy.ipynb) WeatherPy file to be evaluated
 2. [VacationPy.ipynb](https://github.com/shriparna/python-api-challenge/blob/main/starter_code/VacationPy.ipynb) VacationPy file to be evaluated
-3. [cities.csv]() File generated from WeatherPy and used in VacationPy
+3. [cities.csv](https://github.com/shriparna/python-api-challenge/blob/main/output_data/cities.csv) File generated from WeatherPy and used in VacationPy
 4. [Fig1.png](https://github.com/shriparna/python-api-challenge/blob/main/output_data/Fig1.png) Scatter plot of Latitude vs. Temperature
 5. [Fig2.png](https://github.com/shriparna/python-api-challenge/blob/main/output_data/Fig2.png) Scatter plot of Latitude vs. Humidity
 6. [Fig3.png](https://github.com/shriparna/python-api-challenge/blob/main/output_data/Fig3.png) Scatter plot of Latitude vs. Cloudiness
